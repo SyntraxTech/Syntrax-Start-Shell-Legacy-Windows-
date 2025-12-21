@@ -4,6 +4,7 @@ I want atlas to be avaliable on as many oses as possible. So I made this project
 
 **How to install?**
 - Download the features.zip file from the main branch and extract it.
+- **If you are using Windows 98, You need to download Internet Explorer 5.5** 
 - Install both of the exes and then open the AtlasLegacy zip
 
 <img width="1267" height="576" alt="AtlasME" src="https://github.com/user-attachments/assets/6c9cc020-c257-4412-8295-e615f11890fa" />
